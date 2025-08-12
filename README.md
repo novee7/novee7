@@ -2,7 +2,7 @@
 
 ---
 
-## ℹ️ how to contact me
+### ℹ️ How to contact me
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/779084859548368937?showDisplayName=true)](https://discord.com/users/779084859548368937)
 
