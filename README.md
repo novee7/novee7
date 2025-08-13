@@ -4,8 +4,7 @@
 
 ### ℹ️ How to contact me
 
-[![Discord Presence]([![Discord Presence](https://lanyard.cnrad.dev/api/779084859548368937?showDisplayName=true&theme=dark)](https://discord.com/users/779084859548368937))
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/779084859548368937?showDisplayName=true&theme=dark)](https://discord.com/users/779084859548368937)
 - 🧭Portfolio: [here](https://novee7.pages.dev/)
 
 ---
