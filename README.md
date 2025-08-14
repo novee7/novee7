@@ -5,6 +5,7 @@
 ### ℹ️ How to contact me
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/779084859548368937?showDisplayName=true&theme=dark)](https://discord.com/users/779084859548368937)
+<br>
 - 🧭Portfolio: [here](https://novee7.pages.dev/)
 
 ---
@@ -18,6 +19,9 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
-![novee7's Stats](https://github-readme-stats.vercel.app/api?username=novee7&theme=onedark&show_icons=true&hide_border=true&count_private=true)c
+# STATS & MISC
+![novee7's Stats](https://github-readme-stats.vercel.app/api?username=novee7&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+<br>
 ![novee7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=novee7&theme=onedark&hide_border=true)
+<br>
 ![novee7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=novee7&theme=onedark&show_icons=true&hide_border=true&layout=compact)
