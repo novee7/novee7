@@ -19,7 +19,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
-# STATS & MISC
+# STATS & STREAK
 ![novee7's Stats](https://github-readme-stats.vercel.app/api?username=novee7&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 <br>
 ![novee7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=novee7&theme=onedark&hide_border=true)
